@@ -68,7 +68,7 @@ def after_request(response):
 
 # ——— HTML ———
 HTML = """<!DOCTYPE html>
-<html><head><meta charset="UTF-8"><title>💬 Chat</title>
+<html><head><meta charset="UTF-8"><title>💬 GGpro00</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
