@@ -208,7 +208,7 @@ threading.Thread(target=_cleanup_loop, daemon=True).start()
 HTML = """<!DOCTYPE html>
 <html lang="tr"><head>
 <meta charset="UTF-8">
-<title>💬 GGpro00</title>
+<title>💬 GGpro0320</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="referrer" content="no-referrer">
 <style>
